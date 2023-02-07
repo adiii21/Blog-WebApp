@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Koi name suggest kardo bhai',
+  title: 'Uploading blogs is now made easy.',
   tagline: 'Submit your blogs for publishing.',
   favicon: 'img/favicon.ico',
 

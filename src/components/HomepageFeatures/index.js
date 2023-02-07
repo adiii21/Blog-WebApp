@@ -13,7 +13,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Think what to write',
     Svg: require('@site/static/img/frame-1g.svg').default,
     description: (
       <>
@@ -22,7 +22,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Submit it here!!',
     Svg: require('@site/static/img/email-received-icon.svg').default,
     description: (
       <>
