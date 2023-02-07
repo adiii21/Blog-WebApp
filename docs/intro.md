@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # CRYPTOBOX - The NFT Marketplace
 
-Let's discover **Docusaurus in less than 5 minutes**.
+BY **Aditya Singh, Roktim Kamal Senapoty, Chanakya Sarma, Abdullah Alam, Surat Shakar**.
 
 ## What is Web 3 Anyway?
 
