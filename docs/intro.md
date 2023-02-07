@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # CRYPTOBOX - The NFT Marketplace
 
-BY **Aditya Singh, Roktim Kamal Senapoty, Chanakya Sarma, Abdullah Alam, Surat Shakar**.
+BY **Aditya Singh, Roktim Kamal Senapoty, Chanakya Sarma, Abdullah Alam, Ishan Choudhury, Surat Shakar**.
 
 ## What is Web 3 Anyway?
 
